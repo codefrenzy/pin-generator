@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\PINGenerator\PIN.Generator.csproj" />
+    <ProjectReference Include="..\PIN.Generator\PIN.Generator.csproj" />
   </ItemGroup>
 
 </Project>

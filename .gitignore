@@ -5,3 +5,5 @@ PINGenerator/obj
 .vs/PINGenerator/v16
 .dtbcache.v2
 launch.json
+PIN.Generator/bin
+PIN.Generator/obj
