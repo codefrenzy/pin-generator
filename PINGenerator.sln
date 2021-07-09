@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PIN.Generator", "PINGenerator\PIN.Generator.csproj", "{ECA84482-0EE1-49F2-9099-7D1B3FECA6E4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PIN.Tests", "PIN.Tests\PIN.Tests.csproj", "{C3749A7C-8C73-4E28-A840-42AEA29C0D9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECA84482-0EE1-49F2-9099-7D1B3FECA6E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECA84482-0EE1-49F2-9099-7D1B3FECA6E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECA84482-0EE1-49F2-9099-7D1B3FECA6E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECA84482-0EE1-49F2-9099-7D1B3FECA6E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3749A7C-8C73-4E28-A840-42AEA29C0D9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3749A7C-8C73-4E28-A840-42AEA29C0D9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3749A7C-8C73-4E28-A840-42AEA29C0D9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3749A7C-8C73-4E28-A840-42AEA29C0D9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30A1C1DE-384C-4913-9AFC-36E83933509B}
+	EndGlobalSection
+EndGlobal
