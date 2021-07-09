@@ -8,8 +8,8 @@ Open the folder in Visual Studio Code. If you don't already have the C# for Visu
 
 ### How to build
 
-In the terminal, type `dotnet build` 
+In the Visual Studio Code terminal, type `dotnet build` 
 
 ### How to test
 
-In the terminal, type `dotnet test`
+In the Visual Studio Code terminal, type `dotnet test`
