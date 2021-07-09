@@ -38,16 +38,5 @@ namespace PIN.Tests
             Assert.Throws<System.ArgumentOutOfRangeException>
                 (() => pinGeneratorService.GenerateUniqueNumericPINs(10, length));
         }
-
-        [Test]
-        public void GenerateAndPrint1000PINs()
-        {
-            var pins = pinGeneratorService.GenerateUniqueNumericPINs(1000, 4);
-
-            foreach (var pin in pins)
-            {
-                TestContext.WriteLine(pin);
-            }
-        }
     }
 }
